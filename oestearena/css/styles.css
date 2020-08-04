@@ -1,4 +1,19 @@
-#brandText{
-    font-family: 'Jura', sans-serif;
+#brandText {
+    font-family: "Jura", sans-serif;
     font-size: large;
+    color: #e3e3e3;
+}
+
+.dark-footer {
+    background-color: #1c1a1b;
+    color: #e3e3e3;
+}
+
+.fa {
+    padding: 5px;
+    font-size: 16x;
+    width: 16px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
 }
